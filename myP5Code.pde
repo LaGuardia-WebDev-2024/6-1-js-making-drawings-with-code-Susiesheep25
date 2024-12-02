@@ -17,6 +17,13 @@ void draw(){
   
   ellipse (200,70,65,65);
   
+  ellipse (200,80,10,10);
+  
+  ellipse (180,70,5,5);
+  
+  
+  ellipse (220,70,5,5);
+  
   
 
 }
